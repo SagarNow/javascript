@@ -22,7 +22,7 @@ const [ data, setData ] = useState();
 <div>{data}</div>
 <div>
 
-  <input type="text" onChange={(e) => setData(e.target.value)} className='border border-gray-300 rounded p-2' /> 
+  <input type="text" onChange={(e) => setData(e.target.value)} className='border border-gray-300 rounded p-2 hover:border-red-500 focus:border-red-500' /> 
 </div>
 
 
