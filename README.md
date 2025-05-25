@@ -6,3 +6,4 @@ The console.log() method is used to print messages to the browser’s developer 
 console.warn(): The console.warn() method is used to print warning messages to the browser’s developer console. 
 
 console.error(): The console.error() method is used to print error messages to the browser’s developer console. 
+---
