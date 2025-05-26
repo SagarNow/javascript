@@ -23,4 +23,13 @@ ex. declaration: var x;
 
 ex. initialization: var x = 10;
 ___
+### rules for naming variables
+1. variables names are case sensitive, "a" and "A" are different variables.
+2. variables names must start with a __letter__, an __underscore__ or a __dollar__ sign $.
+3. variables only latter, numbers and underscores are allowed. not even space.
+4. variables names cannot be reserved keywords.ex. let, const,console, var, function, class, etc.
+5. variables names should be descriptive and meaningful.
+6. variables names should be unique.
+___
+
 
